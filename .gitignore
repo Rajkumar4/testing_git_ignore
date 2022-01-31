@@ -14,6 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+.vscode/
 lib/
 lib64/
 parts/
@@ -44,6 +45,7 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
+*.json
 nosetests.xml
 coverage.xml
 *.cover
